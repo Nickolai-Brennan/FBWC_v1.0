@@ -1,3 +1,95 @@
+# 🌍 Fantasy Baseball World Cup – Official Overview
+
+Welcome to the **Fantasy Baseball World Cup (FBWC)** — a high-stakes, data-driven fantasy baseball tournament for elite managers. This isn’t just a league; it’s a global championship where your knowledge, strategy, and stamina are tested from Opening Day to the final out of the season.
+
+Hosted by **Strik3** and powered by the **xSTATx Analytics Engine**, FBWC combines **modern sabermetrics** with the classic thrill of competitive fantasy baseball.
+
+---
+
+## 🧱 Structure at a Glance
+
+| Component       | Description |
+|-----------------|-------------|
+| **Qualifier Leagues** | 15 leagues (Q01–Q15), each with 15 teams |
+| **Regular Season** | 7×7 Rotisserie Format (modern + traditional stats) |
+| **Playoffs** | Head-to-Head Each Category Bracket (Top 6 or 8 teams) |
+| **Championship Round** | 👑 VIP Cup: A 15-team, full-season roto league with no playoffs |
+| **Entry & Prizes** | Paid entry; cash prizes + championship tickets for league winners |
+
+---
+
+## 🔥 Key Features
+
+- **🏁 Hybrid Format**: Regular season is **7×7 roto**, playoffs are **H2H category-based**.
+- **💡 Advanced Scoring**: Metrics like Barrel%, CSW%, xOBP, and SIERA replace outdated categories.
+- **📊 Data-Driven Tools**: Draft kits, custom dashboards, and projection engines provided via xSTATx.
+- **🎯 Strategic Playoffs**: Top seeds **choose their opponent** based on roto point totals.
+- **👑 The VIP Cup**: Only league winners make it — no luck, no flukes, just dominance.
+
+---
+
+## 📋 Scoring Categories
+
+### 🧢 Hitters
+- OPS  
+- HR  
+- Net Stolen Bases  
+- Barrel%  
+- xOBP  
+- Total Bases – HR  
+- Run Impact (Runs + RBI)
+
+### ⚾ Pitchers
+- SIERA  
+- WHIP  
+- CSW%  
+- Innings Pitched  
+- SVH3 (Saves + 0.7× Holds)  
+- QA4 (Quality Appearances ≥4 IP, ≤3 ER)  
+- wOBAA (Weighted On-Base Average Allowed)
+
+Each stat counts equally. Every category is winnable.
+
+---
+
+## 🧠 Why FBWC?
+
+> Because fantasy baseball deserves a tournament format built for the **analytical era**. This is for those who know the numbers, trust the process, and manage like a GM.
+
+Whether you're a spreadsheet wizard or a baseball lifer, this league is your proving ground.
+
+---
+
+## 🏆 How To Win It All
+
+1. **Join a Qualifier League** (Q01–Q15)
+2. Finish top of the standings and win the playoffs
+3. Earn your invite to the **VIP Cup**
+4. Outscore the best in the world — and claim the title of **World Champion**
+
+---
+
+## ⚙️ Powered By
+
+**Strik3** and the **xSTATx Analytics Suite**, featuring:
+
+- Advanced Draft Projections  
+- Reliever Reliability Index (RRI)  
+- Real-Time Stat Leaderboards  
+- Weekly Value Rankers & Auction Tools  
+- Fully Custom League Dashboards
+
+---
+
+## 🚀 Ready to Compete?
+
+> The best don’t just play.  
+> They prove it — one inning, one matchup, one season at a time.
+
+🎟️ [Register Now]  
+📚 [View Full Rules & Format]  
+📈 [Visit the xSTATx Dashboard]
+
 # 🏟️ Section 1: League Overview – *Fantasy Baseball World Cup*
 
 Welcome to the **Fantasy Baseball World Cup**, the ultimate test of fantasy baseball skill, strategy, and stamina. Unlike traditional leagues, the FBWC is a season-long tournament made up of multiple qualifying leagues — culminating in a final championship league known as the **👑 VIP Cup**.
