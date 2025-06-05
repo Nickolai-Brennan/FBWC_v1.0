@@ -1,98 +1,95 @@
-# 👑 Section 4: The VIP Cup – Championship League Format  
-**Fantasy Baseball World Cup – Final Round Structure**
+# 🏆 Section 4: Championship Series – The VIP Cup  
+**The Final Round of the Fantasy Baseball World Cup**
 
 ---
 
-## 🏆 What Is the VIP Cup?
+## 👑 What is the VIP Cup?
 
-The **VIP Cup** is the elite championship round of the Fantasy Baseball World Cup, featuring the 15 winners from the Qualifier Leagues (Q01–Q15). This final competition is a full-season **rotisserie format**, with no playoffs — only pure statistical dominance across the entire MLB season.
+The **VIP Cup** is the **ultimate championship round** of the Fantasy Baseball World Cup — a 15-team high-stakes league where the **best of the best** battle for the global title. This is where **Qualifier Champions** prove they weren’t just lucky — they’re elite.
 
----
+It’s not just a crown — it’s legacy.
 
-## 🎟️ Who Qualifies?
+- 🎫 Reserved for **winners only** (Q01–Q15)
+- 💰 Largest prize pool of the tournament
+- 🔥 Custom scoring, unique playoff seeding, and a champion’s path back
 
-| Slot | Qualification            |
-|------|---------------------------|
-| 15   | 1st Place from each Qualifier League (Q01–Q15) |
-
-Each league champion earns:
-- A **$1,300 entry ticket** (non-cash)
-- A guaranteed spot in the most prestigious league of the year
+> 🧠 Think of it as the **Champions League** of fantasy baseball — earned, not invited.
 
 ---
 
-## 📐 Format Overview
+## 🎟️ How to Qualify
 
-| Feature              | Setting                       |
-|----------------------|-------------------------------|
-| Teams                | 15                            |
-| Format               | Full-Season 7×7 Rotisserie    |
-| Scoring              | Same advanced 7×7 as qualifiers |
-| Lineups              | Daily                         |
-| Trades               | Allowed                       |
-| Waivers              | FAAB (Suggested $100–$200)    |
-| Playoffs             | ❌ None                        |
-| Season               | Full MLB Regular Season       |
+| Path         | Requirement                       |
+|--------------|------------------------------------|
+| Qualifier Win | 🥇 1st Place in any Q01–Q15 league |
+| Prize         | 🎫 $1,300 VIP Entry Ticket         |
+
+Only **Qualifier Champions** advance. No wild cards. No points qualifiers. Just winners.
 
 ---
 
-## 📊 Scoring Categories
+## ⚾ Format of the Championship League
 
-### Hitters (7):
-- OPS  
-- HR  
-- Net Stolen Bases  
-- Barrel%  
-- xOBP  
-- TB – HR  
-- Run Impact (Runs + RBI)
+| Category         | Setting                            |
+|------------------|-------------------------------------|
+| Teams            | 15                                  |
+| Regular Season   | 7×7 Roto format (advanced scoring)  |
+| Playoff Format   | Top 6 Teams → H2H Each Category     |
+| Matchups         | 7×7 H2H playoff scoring             |
+| Seeding Bonus    | Top seed chooses opponent           |
+| Lineups          | Daily                               |
+| FAAB             | Yes (suggested: $100–$200 budget)   |
+| Trade Deadline   | Late August                         |
 
-### Pitchers (7):
-- SIERA  
-- WHIP  
-- CSW%  
-- IP  
-- SVH3 (Saves + 0.7× Holds)  
-- QA4 (Quality Appearances ≥4 IP, ≤3 ER)  
-- wOBAA
+### ⚖️ Playoff Bracket Rules:
+- Top 6 teams qualify
+- #1 & #2 get a **first-round bye**
+- Remaining teams battle in 3-week bracket
+- **Top seed picks opponent** each round from eligible teams
+- Championship decided in a **2-week final**
 
----
-
-## 💰 Prize Pool Summary
-
-| Component            | Amount     |
-|----------------------|------------|
-| Championship Prize Pool | $19,688 |
-| Budgeted Distribution  | $17,597.20 |
-| Reserved/Available     | $2,090.80 |
-| Ticket Voucher Total   | $3,300     |
-
-> 🧠 *The winner receives a large payout and earns an automatic seat to return next season to defend the crown.*
+> 🧬 The VIP Cup is a true **hybrid model** — endurance meets clutch performance.
 
 ---
 
-## 🧾 Prizes & Tickets
+## 💰 Payouts & Prizes
 
-| Rank      | Cash        | Bonus                          |
-|-----------|-------------|--------------------------------|
-| 🥇 1st     | $9,844.00   | 🎫 Auto-entry to next VIP Cup   |
-| 🥈 2nd     | $1,968.80   | 🎟️ $250 Entry Voucher          |
-| 🥉 3rd     | $984.40     | 🎟️ $250 Entry Voucher          |
-| 4th–15th  | —           | 🎟️ $250 Entry Voucher (each)  |
+| Rank       | Cash Prize | Ticket/Voucher                |
+|------------|------------|-------------------------------|
+| 🥇 1st      | $9,844.00  | 🎫 Free auto-reentry to next VIP Cup |
+| 🥈 2nd      | $1,968.80  | 🎟️ $250 Entry Voucher         |
+| 🥉 3rd      | $984.40    | 🎟️ $250 Entry Voucher         |
+| 4th–15th   | —          | 🎟️ $250 Entry Voucher (each)  |
 
-> 📌 *Champion receives no voucher — their seat is automatically granted.*
+### Bonus Structure:
+- **Total Pool**: $19,688
+- **Ticket Vouchers**: 14 × $250 + 1 auto-reentry seat
+- **Champion’s Prize**: Title defense, legacy, spotlight
 
----
-
-## 🎯 Why No Playoffs?
-
-The VIP Cup rewards:
-- **Durability**  
-- **Smart team construction**  
-- **Consistent dominance**
-
-There are no short-term eliminations or lucky playoff wins — only the **best fantasy baseball player over 6 months** earns the crown.
+> 🏆 *Win it, and your name is etched into FBWC history.*
 
 ---
 
-> 👑 **One Champion. One Crown. One Season to Prove It.**
+## 📆 Timeline and Milestones
+
+| Milestone                | Date/Period                |
+|--------------------------|----------------------------|
+| Qualifiers Begin         | MLB Opening Day (April)    |
+| Qualifier Regular Season Ends | Late August         |
+| Qualifier Playoffs       | September                  |
+| VIP Cup Draft            | End of September           |
+| VIP Regular Season       | October – December (6 weeks) |
+| VIP Playoffs             | December – Early January   |
+| Championship Finals      | January (2-week finale)    |
+
+> ⏳ *The FBWC calendar is designed for year-round competition — no offseason for champions.*
+
+---
+
+## 📌 Summary
+
+- The **VIP Cup** is earned, not gifted.  
+- It's a combination of **statistical precision** and **managerial excellence**.  
+- Every play, every roster move, every inning counts.
+
+> 👑 **This is where fantasy baseball becomes a war of legends.**
