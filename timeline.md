@@ -2,7 +2,9 @@
 Fantasy Baseball World Cup 
 
 
-Here's a detailed **FBWC Tournament Timeline** covering everything from **seat reservations** in 2025 through the **Championship Finals in 2026**, including critical deadlines and playoff periods. All dates are aligned with MLB’s projected calendar for 2026.
+**FBWC Tournament Timeline** covering everything from **seat reservations** in 2025 through the **Championship Finals in 2026**, including critical deadlines and playoff periods. 
+
+All dates are aligned with MLB’s projected calendar for 2026.
 
 ---
 
